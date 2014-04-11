@@ -1,4 +1,4 @@
-# DFCAPI for Ruby [![Build Status](https://api.travis-ci.org/dfcplc/dfcapi-ruby.png)](https://travis-ci.org/dfcplc/dfcapi-ruby)
+# DFCAPI for Ruby [![Build Status](https://api.travis-ci.org/dfcplc/dfcapi-ruby.png)](https://travis-ci.org/dfcplc/dfcapi-ruby) [![Gem Version](https://badge.fury.io/rb/dfcapi.svg)](http://badge.fury.io/rb/dfcapi)
 
 The DFC API is a Restful API which has been built to facilitate the ability to Setup/Ammend/Cancel & View Direct Debits with Debit Finance Collections Plc
 
